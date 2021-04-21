@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "class-validator": "^0.13.1",
+    "fastify": "^3.14.2",
+    "mercurius": "^7.4.0",
+    "reflect-metadata": "^0.1.13",
+    "ts-node-dev": "^1.1.6",
+    "type-graphql": "^1.1.1",
+    "typescript": "^4.2.4"
+  },
+  "name": "mercurius-issue-458",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-coder/typegraphql-issue.git"
+  },
+  "author": "Sameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-coder/typegraphql-issue/issues"
+  },
+  "homepage": "https://github.com/sameer-coder/typegraphql-issue#readme"
+}
