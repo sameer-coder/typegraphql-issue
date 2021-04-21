@@ -1,4 +1,4 @@
-# mercurius-issue-458
+# typegraphql-issue
 
 # Steps to reproduce
 

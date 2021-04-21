@@ -8,7 +8,7 @@
     "type-graphql": "^1.1.1",
     "typescript": "^4.2.4"
   },
-  "name": "mercurius-issue-458",
+  "name": "typegraphql-issue",
   "description": "",
   "version": "1.0.0",
   "main": "index.ts",
